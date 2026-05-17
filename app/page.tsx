@@ -13,7 +13,7 @@ export default function Home() {
           </p>
 
           <h1 className="mb-6 text-5xl font-bold leading-tight md:text-7xl">
-            Hi, I'm <span className="text-white">Danai Puttachart</span>
+            Hi, I&apos;m <span className="text-white">Danai Puttachart</span>
           </h1>
 
           <h2 className="mb-8 max-w-4xl text-2xl font-medium leading-relaxed text-zinc-300 md:text-4xl">
