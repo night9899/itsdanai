@@ -98,7 +98,7 @@ export default function Home() {
             </div>
 
             <a
-              href="/projects"
+              // href="/projects"
               className="hidden rounded-xl border border-white/10 px-5 py-3 text-sm text-zinc-300 transition hover:border-white/20 hover:bg-white/5 hover:text-white md:block"
             >
               View All Projects
@@ -109,7 +109,7 @@ export default function Home() {
           <div className="grid gap-6 lg:grid-cols-3">
             {/* Featured Large Card */}
             <a
-              href="/projects/vm-health-monitoring"
+              // href="/projects/vm-health-monitoring"
               className="group relative flex min-h-[320px] flex-col justify-between overflow-hidden rounded-3xl border border-white/10 bg-zinc-950 p-8 transition hover:border-white/20 hover:bg-zinc-900 lg:col-span-2"
             >
               <div className="mb-16">
@@ -144,7 +144,7 @@ export default function Home() {
 
             {/* Secondary Card */}
             <a
-              href="/projects/pms-dashboard"
+              // href="/projects/pms-dashboard"
               className="group flex min-h-[320px] flex-col justify-between rounded-3xl border border-white/10 bg-zinc-950 p-8 transition hover:border-white/20 hover:bg-zinc-900"
             >
               <p className="mb-3 text-sm uppercase tracking-wide text-zinc-500">
@@ -172,7 +172,7 @@ export default function Home() {
           {/* Mobile Button */}
           <div className="mt-8 md:hidden">
             <a
-              href="/projects"
+              // href="/projects"
               className="inline-flex rounded-xl border border-white/10 px-5 py-3 text-sm text-zinc-300 transition hover:border-white/20 hover:bg-white/5 hover:text-white"
             >
               View All Projects
@@ -346,13 +346,13 @@ export default function Home() {
                 danai.puttt@gmail.com
               </a>
 
-              <a
+              {/* <a
                 href="https://github.com/"
                 target="_blank"
                 className="transition hover:text-white"
               >
                 GitHub
-              </a>
+              </a> */}
               <a
                 href="/itsdanai-Resume.pdf"
                 target="_blank"
