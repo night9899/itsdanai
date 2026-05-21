@@ -11,7 +11,7 @@ const en = {
     title: "Hi, I'm Danai Puttachart",
 
     subtitle:
-      "I like building things that people inside a company actually use every day.",
+      "Building systems that people inside organizations rely on every day.",
 
     description:
       "Full Stack Developer focused on building real-world web applications, backend systems, and monitoring platforms using React, Node.js, MongoDB, and Google Cloud.",

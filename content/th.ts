@@ -13,7 +13,7 @@ const th = {
     subtitle: "ชอบสร้างระบบที่คนในองค์กรหยิบขึ้นมาใช้ได้จริงทุกวัน",
 
     description:
-      "Full Stack Developer ที่สนใจการสร้าง Web Application, Backend System และ Monitoring Platform สำหรับการใช้งานจริง ด้วย React, Node.js, MongoDB และ Google Cloud",
+      "Full Stack Developer ที่สนใจการสร้าง Web Application, Backend System และ Monitoring Platform สำหรับการใช้งานจริง โดยใช้ React, Node.js, MongoDB และ Google Cloud",
 
     viewProjects: "ดูผลงาน",
     contact: "ติดต่อ",
@@ -37,7 +37,7 @@ const th = {
       "ให้ความสำคัญกับระบบที่ยังใช้งานง่ายในอีกหกเดือน มากกว่าระบบที่สร้างได้เร็ว",
 
     description:
-      "เริ่มจากการสร้างเครื่องมือให้ทีม operations ใช้งานจริง จนค้นพบว่าตัวเองชอบด้าน backend, API และ infrastructure มีความสุขทุกครั้งที่ระบบที่สร้างช่วยให้งานของใครสักคนยุ่งยากน้อยลง",
+      "เริ่มจากการสร้างเครื่องมือให้ทีม operations ใช้งานจริง จนค้นพบว่าตัวเองชอบด้าน backend, API และ infrastructure ชอบเวลาที่ระบบที่สร้างช่วยลดขั้นตอนการทำงาน และทำให้งานของทีมจัดการได้ง่ายขึ้น",
 
     card1: {
       badge: "ประสบการณ์ด้านระบบภายใน",
