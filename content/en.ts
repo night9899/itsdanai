@@ -11,7 +11,7 @@ const en = {
     title: "Hi, I'm Danai Puttachart",
 
     subtitle:
-      "Building internal systems, automation tools, and operational dashboards.",
+      "I like building things that people inside a company actually use every day.",
 
     description:
       "Full Stack Developer focused on building real-world web applications, backend systems, and monitoring platforms using React, Node.js, MongoDB, and Google Cloud.",
@@ -35,10 +35,10 @@ const en = {
     badge: "ABOUT",
 
     title:
-      "I enjoy building systems that make internal operations easier to manage and more efficient to work with.",
+      "I care more about whether a system is still easy to work with six months later than whether it was fast to build.",
 
     description:
-      "Full Stack Developer with experience developing internal tools, operational dashboards, and web applications for real-world business workflows. Interested in backend systems, API development, database architecture, and cloud deployment using modern web technologies.",
+      "Started with hands-on projects building tools for operations teams, which pushed me toward backend systems, APIs, and cloud infrastructure. I enjoy the part where something I built makes someone's day a little less repetitive.",
 
     card1: {
       badge: "Operational Experience",
@@ -55,15 +55,12 @@ const en = {
     card3: {
       badge: "Core Stack",
       title: "Node.js • MongoDB • Google Cloud",
-
       description: "Building modern web applications and backend systems.",
     },
 
     card4: {
       badge: "Production Infrastructure",
-
       title: "PM2 • Nginx • Google Cloud",
-
       description:
         "Deployment, monitoring, and server infrastructure management.",
     },
@@ -78,28 +75,21 @@ const en = {
     items: [
       {
         title: "Operational Thinking",
-
         description:
-          "Design systems around real workflows, day-to-day operations, and practical business needs.",
+          "Before writing code, I try to understand what the team actually does day-to-day — not just what they say they need.",
       },
-
       {
         title: "Problem Solving",
-
         description:
           "Focus on creating solutions that are stable, maintainable, and easy to work with in production.",
       },
-
       {
         title: "Cross-functional Collaboration",
-
         description:
-          "Comfortable working with internal teams, operational users, and non-technical stakeholders.",
+          "Experienced in working with internal teams, operational users, and non-technical stakeholders.",
       },
-
       {
         title: "Continuous Learning",
-
         description:
           "Always learning new technologies and adapting to changing tools, environments, and requirements.",
       },
@@ -109,10 +99,10 @@ const en = {
   contact: {
     badge: "CONTACT",
 
-    title: "Building systems that help teams work more efficiently.",
+    title:
+      "If you're building something and think I'd be a good fit, I'd love to hear about it.",
 
-    description:
-      "Interested in internal tools, backend systems, operational platforms, and real-world web applications.",
+    description: "Currently open to new opportunities. Resume is linked below.",
 
     email: "danai.puttt@gmail.com",
 

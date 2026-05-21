@@ -8,10 +8,9 @@ const th = {
   hero: {
     badge: "FULL STACK & INTERNAL SYSTEM DEVELOPER",
 
-    title: "สวัสดีครับ ผม ดนัย พุทธชาติ",
+    title: "สวัสดีผม ดนัย พุทธชาติ",
 
-    subtitle:
-      "พัฒนาระบบภายในองค์กร ระบบ Automation และ Dashboard สำหรับงานปฏิบัติการ",
+    subtitle: "ชอบสร้างระบบที่คนในองค์กรหยิบขึ้นมาใช้ได้จริงทุกวัน",
 
     description:
       "Full Stack Developer ที่สนใจการสร้าง Web Application, Backend System และ Monitoring Platform สำหรับการใช้งานจริง ด้วย React, Node.js, MongoDB และ Google Cloud",
@@ -35,10 +34,10 @@ const th = {
     badge: "เกี่ยวกับ",
 
     title:
-      "สนใจการพัฒนาระบบที่ช่วยให้งานภายในองค์กรจัดการได้ง่ายขึ้น และทำงานได้อย่างมีประสิทธิภาพมากขึ้น",
+      "ให้ความสำคัญกับระบบที่ยังใช้งานง่ายในอีกหกเดือน มากกว่าระบบที่สร้างได้เร็ว",
 
     description:
-      "Full Stack Developer ที่มีประสบการณ์ในการพัฒนา Internal Tools, Dashboard และ Web Application สำหรับการใช้งานจริงภายในองค์กร สนใจด้าน Backend System, API Development, Database Architecture และ Cloud Deployment ด้วยเทคโนโลยีเว็บสมัยใหม่",
+      "เริ่มจากการสร้างเครื่องมือให้ทีม operations ใช้งานจริง จนค้นพบว่าตัวเองชอบด้าน backend, API และ infrastructure มีความสุขทุกครั้งที่ระบบที่สร้างช่วยให้งานของใครสักคนยุ่งยากน้อยลง",
 
     card1: {
       badge: "ประสบการณ์ด้านระบบภายใน",
@@ -56,16 +55,13 @@ const th = {
     card3: {
       badge: "Core Stack",
       title: "Node.js • MongoDB • Google Cloud",
-
       description:
         "พัฒนา Web Application และ Backend System สำหรับงานภายในองค์กร",
     },
 
     card4: {
       badge: "Production Infrastructure",
-
       title: "PM2 • Nginx • Google Cloud",
-
       description: "ดูแล deployment, monitoring และ server infrastructure",
     },
   },
@@ -78,28 +74,21 @@ const th = {
     items: [
       {
         title: "Operational Thinking",
-
         description:
-          "ออกแบบระบบให้สอดคล้องกับ workflow การทำงานจริง และการใช้งานภายในองค์กร",
+          "ก่อนเขียนโค้ด พยายามทำความเข้าใจว่าทีมทำงานจริงๆ ยังไง ไม่ใช่แค่สิ่งที่เขาบอกว่าต้องการ",
       },
-
       {
         title: "Problem Solving",
-
         description:
           "ให้ความสำคัญกับระบบที่เสถียร ดูแลง่าย และรองรับการใช้งานจริงได้อย่างต่อเนื่อง",
       },
-
       {
         title: "Cross-functional Collaboration",
-
         description:
-          "สามารถทำงานร่วมกับทีมภายใน ผู้ใช้งานระบบ และผู้ที่ไม่ได้มีพื้นฐานด้าน technical ได้",
+          "มีประสบการณ์ทำงานร่วมกับทีมภายใน ผู้ใช้งาน และผู้บริหารที่ไม่มีพื้นฐาน technical",
       },
-
       {
         title: "Continuous Learning",
-
         description:
           "เรียนรู้และปรับตัวกับเทคโนโลยี เครื่องมือ และรูปแบบการทำงานใหม่อยู่เสมอ",
       },
@@ -109,11 +98,9 @@ const th = {
   contact: {
     badge: "ติดต่อ",
 
-    title:
-      "พัฒนาระบบที่ช่วยให้การทำงานภายในองค์กรจัดการได้ง่ายและมีประสิทธิภาพมากขึ้น",
+    title: "ถ้ากำลังมองหาคนที่ fit กับสิ่งที่กำลังสร้าง ยินดีคุยครับ",
 
-    description:
-      "สนใจด้าน Internal Tools, Backend System และ Web Application สำหรับการใช้งานจริงภายในองค์กร",
+    description: "เปิดรับโอกาสงานใหม่อยู่ครับ ดู Resume ได้ที่ลิงก์ด้านล่าง",
 
     email: "danai.puttt@gmail.com",
 
