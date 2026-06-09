@@ -4,7 +4,6 @@ Personal portfolio website of **Danai Puttachart**, a Full Stack Developer
 specializing in backend systems, REST APIs, and real-time IoT applications.
 
 🌐 **Live site:** [https://itsdanai.vercel.app](https://itsdanai.vercel.app)
-_(อัปเดต URL จริงด้วยนะครับ)_
 
 ---
 
